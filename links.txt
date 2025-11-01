@@ -1,0 +1,5 @@
+Official API Link (Requested Access)
+https://dev.brawlhalla.com/#introduction
+
+Tournament API Link (Open Access)
+https://www.docs.brawltools.com/datatypes/tournament/
